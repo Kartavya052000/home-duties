@@ -55,7 +55,7 @@ export default function BasicTable() {
             <StyledTableCell align="right">Kitchen</StyledTableCell>
             <StyledTableCell align="right">Corridor</StyledTableCell>
             <StyledTableCell align="right">Garbage</StyledTableCell>
-            <StyledTableCell align="right">Washroom&nbsp;(g)</StyledTableCell>
+            <StyledTableCell align="right">Washroom</StyledTableCell>
           </TableRow>
         </TableHead>
         <TableBody>
